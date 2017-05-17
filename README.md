@@ -22,14 +22,14 @@ At TGS I was given high praise for my work in QC. This involved close examinatio
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2017 cohort)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Javascript
+- Rspec, Jasmine,
 
 #### University of Exeter (graduate July 2013) / Hampton School
 
