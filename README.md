@@ -1,6 +1,24 @@
-## Miles Illsley
+# Miles Illsley
 
-24, Cadogan Road, Surbiton, Surrey, KT6 4DJ – 07806 456825 – milesillsley@hotmail.co.uk
+[Projects](https://github.com/milesillsley/CV#projects) | [Skills](https://github.com/milesillsley/CV#skills) | [Education](https://github.com/milesillsley/CV#education) | [Experience](https://github.com/milesillsley/CV#experience) | [Interests](https://github.com/milesillsley/CV#interests) | [Contact](https://github.com/milesillsley/CV#contact)
+
+I am a junior full stack developer coming from a background in geophysical processing.
+
+I studied Physics at university, worked for over 2 years processing seismic data and have recently graduated from [Makers Academy](http://www.makersacademy.com/) - Europes leading Web Developer bootcamp.
+
+I am looking for a job where I can continue to grow and further myself as a developer, learn new tech and use Agile methodologies to solve real problems.
+
+## Projects
+
+| Project                                  | Description                              | Technologies                             |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| [BeeAppy](https://github.com/pmuldoon86/Beehave) | This was my final project at Makers Academy. A full-stack bee-tracking iOS app, built using React-Native and a Rails API | React-Native, Rails, Heroku, Xcode, ES6  |
+| [TypeFastTypeFurious](https://github.com/adc17/type-fast-type-furious) | A single page type racing game writen in JS that fetches Ron Swanson quotes | Node.js, Javascript,  Jasmine, Karma     |
+| [Acebook](https://github.com/pmuldoon86/acebook) | Collaborative project with the 16 others my remote cohort during 'Rails week' | Ruby, Sinatra, bcrypt, DataMapper, RSpec, Capybara, Postgres |
+| [Gilded Rose](https://github.com/pmuldoon86/gilded-rose-ruby) | My attempt at the classic refactoring Kata. | Ruby, RSpec                              |
+| [Bank Tech Test](https://github.com/milesillsley/bank_tech_test) | A practice tech test that involves making a bank account program. | Ruby, RSpec                              |
+| [Tic Tac Toe](https://github.com/milesillsley/TicTacToeTechTest) | A practice tech test for tic tac toe buisness logic in JS | Javascript,  Jasmine                     |
+
 
 ## Skills
 
@@ -22,14 +40,14 @@ At TGS I was given high praise for my work in QC. This involved close examinatio
 
 ## Education
 
-#### Makers Academy (April 2017 cohort)
+#### Makers Academy (April 10 2017 to June 30 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, XP , SOLID, MVC, pair programming
 - Software Craftsmanship
-- Ruby, Javascript
-- Rspec, Jasmine,
+- Ruby, Rails, Javascript, Node.js, React-Native
+- Git, Rspec, Sinatra, Capybara, Jasmine, Karma, CSS, HTML, jQuery, Heroku, PSQL
 
 #### University of Exeter (graduate July 2013) / Hampton School
 
@@ -61,3 +79,7 @@ I have always had a keen interest in music and have been playing guitar for 13 y
 #### Film
 
 In February I was lucky enough to work on a film shoot for a friend who needed some extra help. It was a low budget feature length film with only 2 weeks of scheduled shooting time. It was a very ambitious project in which I had to fill in as a sound recorder, assistant camera, gaffer, transport, and even stunt driver. It was a lot of fun and I was thrilled to have been involved.
+
+## Contact
+
+24, Cadogan Road, Surbiton, Surrey, KT6 4DJ – 07806 456825 – milesillsley@hotmail.co.uk
