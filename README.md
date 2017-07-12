@@ -6,7 +6,7 @@ I am a junior full stack developer coming from a background in geophysical proce
 
 I studied Physics at university, worked for over 2 years processing seismic data and have recently graduated from [Makers Academy](http://www.makersacademy.com/) - Europes leading Web Developer bootcamp.
 
-I am looking for a job where I can continue to grow and further myself as a developer, learn new tech and use Agile methodologies to solve real problems.
+I am looking for a job where I can continue to grow and further myself as a developer, learn new tech and use Agile methodologies to solve real world problems.
 
 ## Projects
 
@@ -15,7 +15,7 @@ I am looking for a job where I can continue to grow and further myself as a deve
 | [BeeAppy](https://github.com/pmuldoon86/Beehave) | This was my final project at Makers Academy. A full-stack bee-tracking iOS app, built using React-Native and a Rails API | React-Native, Rails, Heroku, Xcode, ES6  |
 | [TypeFastTypeFurious](https://github.com/adc17/type-fast-type-furious) | A single page type racing game writen in JS that fetches Ron Swanson quotes | Node.js, Javascript,  Jasmine, Karma     |
 | [Acebook](https://github.com/pmuldoon86/acebook) | Collaborative project with the 16 others my remote cohort during 'Rails week' | Ruby, Sinatra, bcrypt, DataMapper, RSpec, Capybara, Postgres |
-| [Gilded Rose](https://github.com/pmuldoon86/gilded-rose-ruby) | My attempt at the classic refactoring Kata. | Ruby, RSpec                              |
+| [Gilded Rose](https://github.com/milesillsley/GildedRose) | My attempt at the classic refactoring Kata. | Ruby, RSpec                              |
 | [Bank Tech Test](https://github.com/milesillsley/bank_tech_test) | A practice tech test that involves making a bank account program. | Ruby, RSpec                              |
 | [Tic Tac Toe](https://github.com/milesillsley/TicTacToeTechTest) | A practice tech test for tic tac toe buisness logic in JS | Javascript,  Jasmine                     |
 
@@ -74,7 +74,7 @@ I have always thought that travel is key understanding oneself, our planet and t
 
 #### Music
 
-I have always had a keen interest in music and have been playing guitar for 13 years. I have performed in several bands, and seeing live music is one of my favourite activities.
+I have always had a keen interest in music and have been playing guitar for 14 years. I have performed in several bands, and seeing live music is one of my favourite activities.
 
 #### Film
 
