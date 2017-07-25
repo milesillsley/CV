@@ -1,6 +1,6 @@
 # Miles Illsley
 
-[Projects](https://github.com/milesillsley/CV#projects) | [Skills](https://github.com/milesillsley/CV#skills) | [Education](https://github.com/milesillsley/CV#education) | [Experience](https://github.com/milesillsley/CV#experience) | [Interests](https://github.com/milesillsley/CV#interests) | [Contact](https://github.com/milesillsley/CV#contact)
+[Projects](https://github.com/milesillsley/CV#projects) | [Skills](https://github.com/milesillsley/CV#skills) | [Education](https://github.com/milesillsley/CV#education) | [Experience](https://github.com/milesillsley/CV#experience) | [Interests](https://github.com/milesillsley/CV#interests) 
 
 I am a junior full stack developer coming from a background in geophysical processing.
 
@@ -81,7 +81,3 @@ I have always had a keen interest in music and have been playing guitar for 14 y
 #### Film
 
 In February I was lucky enough to work on a film shoot for a friend who needed some extra help. It was a low budget feature length film with only 2 weeks of scheduled shooting time. It was a very ambitious project in which I had to fill in as a sound recorder, assistant camera, gaffer, transport, and even stunt driver. It was a lot of fun and I was thrilled to have been involved.
-
-## Contact
-
-24, Cadogan Road, Surbiton, Surrey, KT6 4DJ – 07806 456825 – milesillsley@hotmail.co.uk
